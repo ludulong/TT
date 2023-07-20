@@ -7,5 +7,6 @@ public class GOGO {
         System.out.println("hello gogo3333");
 
         System.out.println("hello ludulong");
+        System.out.println("hot gogo3333");
     }
 }
