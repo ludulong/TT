@@ -19,6 +19,6 @@ public class GOGO {
 
         System.out.println("/master gogo5555555");
 
-
+        System.out.println("/master gogo66666666666");
     }
 }
