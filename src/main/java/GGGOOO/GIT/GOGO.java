@@ -6,6 +6,6 @@ public class GOGO {
         System.out.println("hello gogo22");
         System.out.println("hello gogo3333");
 
-
+        System.out.println("hello ludulong");
     }
 }
